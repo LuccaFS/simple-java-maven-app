@@ -8,14 +8,12 @@ import java.util.Scanner;
 public class App
 {
 
-    private final String message = "Hello World!";
 
     public App() {}
 
     public static void main(String[] args) {
 		
 		
-        System.out.println(new App().getMessage());
 		
 		
 		int num1= 25;
@@ -28,10 +26,6 @@ public class App
 		
     }
 
-    private final String getMessage() {
-        return message;
-    }
-	
 	
 	
     public static int add(int x, int y)

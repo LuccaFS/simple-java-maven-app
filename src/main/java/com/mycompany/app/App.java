@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * Calculadora
+ * Guilherme Enes Pecci - 31840450
+ * Lucca Ferri de Souza - 31855441
  */
 public class App
 {
